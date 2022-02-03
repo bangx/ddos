@@ -1,3 +1,4 @@
+
 import socket
 import socks
 import threading
@@ -11,14 +12,14 @@ from bs4 import BeautifulSoup
 try: # ตั้งค่าสำหรับ Linux
 	from scapy.all import * # เพิ่มแบนด์วิส
 except: #ตัวยิง
-	print ("APEX DDOS BY DENZHACKER V1.0") # ตัวนี้ยิงได้แค่ HTTP นะยังไม่แก้เรื่อง UDP TCP เลยนะ
+	print ("APEX DDOS BY GODBANK V1.0") # ตัวนี้ยิงได้แค่ HTTP นะยังไม่แก้เรื่อง UDP TCP เลยนะ
 
 print('''
 =====================================================
-  DDOS ATTACK BY INW-BANK.AK
+  DDOS ATTACKER BY GODBANK
 =====================================================
-|Version : V5.0          |sx5z5sasa2d
-|Create  : 16/1/63          |5s5ds2xzsa5
+|Version : V4.0.7        |sx5z5sasa2d
+|Create  : 03/02/65      |5s5ds2xzsa5
 #####################################################
 
 =================================================[''')
